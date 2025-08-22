@@ -168,6 +168,47 @@ const API_SITES = {
         name: '玉兔资源',
         adult: true
     },
+    madou: {
+        api: 'https://91md.me/api.php/provide/vod',
+        name: 'AV-91麻豆',
+        adult: true
+    },
+    lebo: {
+        api: 'https://lbapi9.com/api.php/provide/vod',
+        name: 'AV-乐播资源',
+        adult: true
+    },
+    aosika: {
+        api: 'https://aosikazy.com/api.php/provide/vod',
+        name: 'AV-奥斯卡资源',
+        adult: true
+    },
+    naixx: {
+        api: 'https://Naixxzy.com/api.php/provide/vod',
+        name: 'AV-奶香香',
+        adult: true
+    },
+    senlin: {
+        api: 'https://slapibf.com/api.php/provide/vod',
+        name: 'AV-森林资源',
+        adult: true
+    },
+    yinshuiji: {
+        api: 'https://www.xrbsp.com/api/json.php',
+        name: 'AV-淫水机资源',
+        adult: true
+    },
+    jingpin: {
+        api: 'https://www.jingpinx.com/api.php/provide/vod',
+        name: 'AV-精品资源',
+        adult: true
+    },
+    semao: {
+        api: 'https://api.maozyapi.com/inc/apijson_vod.php',
+        name: 'AV-色猫资源',
+        adult: true
+    },       
+    
 
     // 下面是资源失效率高的API源，不建议使用
     subo: {
